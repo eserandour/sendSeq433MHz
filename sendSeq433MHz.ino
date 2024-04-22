@@ -5,7 +5,7 @@
 
 #define TX_PIN 13                   // physical pin to which 433MHz module is connected
 
-// Frequency 433,92 Mhz
+// Fréquence 433,92 Mhz
 // Trames obtenues à l'aide de Universal Radio hacker (https://github.com/jopohl/urh)
 #define BIT_LEN 510                 // length of individual bit pulses (in microseconds)
 #define SEQ_RPT 6                   // number of times to repeat full sequence
